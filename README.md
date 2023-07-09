@@ -20,7 +20,7 @@
 <h3>:page_with_curl: Certifications:</h3>
 
 - <b>Artificial Intelligence</b>
-  - [CErtificarion 1](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [**Fundamentals of Deep Learning** NVIDIA](https://drive.google.com/file/d/1YfqwAkGC_esA-niPJ9oQEh4mG80WgJ8Q/view?usp=drive_link)
 
 <h3> :bar_chart: Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpcobos&show_icons=true&locale=en&layout=compact" alt="jpcobos" /></p>
