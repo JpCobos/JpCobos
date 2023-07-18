@@ -23,9 +23,9 @@
   - [**Fundamentals of Deep Learning** NVIDIA](https://drive.google.com/file/d/1YfqwAkGC_esA-niPJ9oQEh4mG80WgJ8Q/view?usp=drive_link)
 
 <h3> :bar_chart: Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpcobos&show_icons=true&locale=en&layout=compact" alt="jpcobos" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=jpcobos&show_icons=true&locale=en&layout=compact" alt="jpcobos" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jpcobos&show_icons=true&locale=en" alt="jpcobos" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jpcobos&show_icons=true&locale=en" alt="jpcobos" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jpcobos&" alt="jpcobos" /></p>
 
