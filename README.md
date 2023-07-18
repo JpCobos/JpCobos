@@ -26,8 +26,8 @@
 
 
 <p>
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jpcobos&show_icons=true&locale=en" alt="jpcobos" height=200 width=300 >
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jpcobos&" alt="jpcobos" height=200 width=300 >
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jpcobos&show_icons=true&locale=en" alt="jpcobos" height=200 width=400 >
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jpcobos&" alt="jpcobos" height=200 width=400 >
   
 </p>
 
