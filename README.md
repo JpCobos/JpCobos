@@ -25,12 +25,13 @@
 <h3> :bar_chart: Stats:</h3>
 
 
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jpcobos&show_icons=true&locale=en" alt="jpcobos" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jpcobos&" alt="jpcobos" /></p>
+
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JpCobos)](https://github.com/JpCobos/github-readme-stats)
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jpcobos&show_icons=true&locale=en" alt="jpcobos" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jpcobos&" alt="jpcobos" /></p>
 
 <h3> :mailbox: Connect with me:</h3>
 <p align="left">
