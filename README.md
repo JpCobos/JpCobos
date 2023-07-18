@@ -4,13 +4,13 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 <h3>👨‍💻 Software Development Projects:</h3>
 
-- <b>Artificial Intelligence and Data Science</b>
+- <b>Artificial Intelligence</b>
   - [LEGO Classification with Deep Learning](https://github.com/joshmadakor1/Algorithms-Practice)
   - 
 - <b>Data Science </b>
   - [Urban Mobility Analysis and Predictions in Santiago de Chile](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Build a Blockchain](https://github.com/JpCobos/Block-Chain)
 
 
 
