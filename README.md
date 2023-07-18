@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm José Pablo</h1>
 <h3 align="justify">I am a Senior Robotics and Digital Systems Engineer Student and a big Data Science and I.A. enthusiastic. I love programming, reading, videogames, meeting new people and learn about their ideas . I love the most about programming and technology is how it can be use in our daily life 
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+
 <h3>👨‍💻 Software Development Projects:</h3>
+
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 - <b>Artificial Intelligence</b>
   - [LEGO Classification with Deep Learning](https://github.com/JpCobos/LEGO-Classsifiaction)
-  - 
 - <b>Data Science </b>
   - [Urban Mobility Analysis and Predictions in Santiago de Chile](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Python</b>
   - [Build a Blockchain](https://github.com/JpCobos/Block-Chain)
-
 
 
 <h3>:computer: Languages and Tools:</h3>
@@ -25,10 +25,10 @@
 <h3> :bar_chart: Stats:</h3>
 
 
-<p>&nbsp;
+<p>
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jpcobos&show_icons=true&locale=en" alt="jpcobos" width=50%>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jpcobos&" alt="jpcobos" widht=49.6%>
-/></p>
+</p>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JpCobos)](https://github.com/JpCobos/github-readme-stats)
 
