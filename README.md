@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm José Pablo</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a Senior Robotics and Digital Systems Engineer Student . I love programming, reading, videogames, meeting new people and learn about their them.
+
+As a engineer I have work with hardware and software , but right now I have dedicated fully to software. The thing I love the most about programming and technology is how it can be use in many fields and also that you always have space for making improvements 
+
+I have become a big Data Science and I.A. enthusiastic
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 <h3>👨‍💻 Software Development Projects:</h3>
