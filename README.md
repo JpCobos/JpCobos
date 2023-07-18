@@ -5,7 +5,7 @@
 <h3>👨‍💻 Software Development Projects:</h3>
 
 - <b>Artificial Intelligence</b>
-  - [LEGO Classification with Deep Learning](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [LEGO Classification with Deep Learning](https://github.com/JpCobos/LEGO-Classsifiaction)
   - 
 - <b>Data Science </b>
   - [Urban Mobility Analysis and Predictions in Santiago de Chile](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
