@@ -9,7 +9,7 @@
 - <b>Artificial Intelligence</b>
   - [LEGO Classification with Deep Learning](https://github.com/JpCobos/LEGO-Classsifiaction)
 - <b>Data Science </b>
-  - [Urban Mobility Analysis and Predictions in Santiago de Chile](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Urban Mobility Analysis and Predictions in Santiago de Chile](https://github.com/JpCobos/Urban-Mobility-Analysis-and-Prediction.git)
 - <b>Python</b>
   - [Build a Blockchain](https://github.com/JpCobos/Block-Chain)
 
