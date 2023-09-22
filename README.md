@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Pablo</h1>
-<h3 align="justify">I am a Senior Robotics and Digital Systems Engineer Student and a big Data Science and I.A. enthusiastic. I love programming, reading, videogames, meeting new people and learn about their ideas . I love the most about programming and technology is how it can be use in our daily life 
+<h3 align="justify">I am a Robotics and Digital Systems Engineer Student and a big Data Science and I.A. enthusiastic. I love programming, reading, videogames, meeting new people and learn about their ideas . I love the most about programming and technology is how it can be use in our daily life 
 
 
 <h3>👨‍💻 Software Development Projects:</h3>
