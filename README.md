@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm José Pablo</h1>
+<h1 align="center">Hi 👋, I'm Jose Pablo</h1>
 <h3 align="justify">I am a Robotics and Digital Systems Engineer Student and a big Data Science and I.A. enthusiastic. I love programming, reading, videogames, meeting new people and learn about their ideas . I love the most about programming and technology is how it can be use in our daily life 
 
 
 <h3>👨‍💻 Software Development Projects:</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="coding" width="350" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 - <b>Artificial Intelligence</b>
   - [LEGO Classification with Deep Learning](https://github.com/JpCobos/LEGO-Classsifiaction)
