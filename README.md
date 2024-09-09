@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Pablo</h1>
 <h3 align="justify">I am a Robotics and Digital Systems Engineer Student and a Data Analyst, also an Artificial Intelligence entusiastic. I love programming, reading, videogames, meeting with new people and sharing ideas. What I like the most about tech industry, is the great amount of opportunities that we have to work with other fields of study.
 
-<h3>👨‍💻 Software Development Projects:</h3>
+<h3>👨‍💻 Data Science Projects:</h3>
 
 <img align="right" alt="coding" width="350" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
