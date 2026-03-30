@@ -15,9 +15,15 @@
 
 ## About Me
 
-I am a Robotics and Digital Systems Engineering student and Data Analyst with a strong passion for Artificial Intelligence. I enjoy programming, reading, gaming, meeting new people, and sharing ideas. What excites me most about the tech industry is the vast opportunity for interdisciplinary collaboration.
+<img align="right" alt="coding" width="200" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-<img align="right" alt="coding" width="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+Robotics & Digital Systems Engineering student and Data Analyst with a strong passion for Artificial Intelligence.
+
+I enjoy programming, reading, gaming, meeting new people, and sharing ideas.
+
+What excites me most about the tech industry is the vast opportunity for interdisciplinary collaboration.
+
+<br clear="right"/>
 
 ## Featured Projects
 
@@ -76,8 +82,6 @@ I am a Robotics and Digital Systems Engineering student and Data Analyst with a 
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JpCobos&layout=compact&hide_border=true" alt="Top Languages" height="180"/>
 </div>
-
-
 
 
 
